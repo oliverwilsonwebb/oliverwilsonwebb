@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+I am Oliver and I am a Junior Developer 🤓
+
+
+# 
+
 <!--
-**oliverwilsonwebb/oliverwilsonwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**/oliverwilsonwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
