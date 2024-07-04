@@ -1,6 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-I am Oliver and I am a Junior Developer 🤓
+### I'm Oliver! A junior developer from Omaha Nebraksa! 🙇‍♂️
+
+### The languages I'm most interested in are Swift, Python and Javascript. I've been coding since I was little and I dream of being a game developer!🎮
 
 
 # 
